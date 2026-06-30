@@ -65,7 +65,4 @@ Enter the product or offer details for the business, and the app returns a gener
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
-## Author
-
-Built by Namdev as part of a self-directed AI engineering learning path, focused on AI tools for local Marathi-speaking businesses.
+ 
